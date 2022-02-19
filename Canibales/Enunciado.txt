@@ -1,0 +1,7 @@
+Una tribu de salvajes cenan en comunidad una gran olla que contiene M misioneros cocinados. Cuando un salvaje quiere corner, él mismo se sirve de la olla, a menos que esté vacía. Si la olla está vacía, el salvaje despierta al cocinero y espera a que éste llene la olla.
+
+Desarrollar el código las acciones de los salvajes y el cocinero usando monitores. Sólo se debe despertar al cocinero cuando la olla esté vacía.
+
+
+
+
